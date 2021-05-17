@@ -1,0 +1,50 @@
+.container {
+ 
+  margin: 30px auto;
+  overflow: auto;
+
+  border: 1px solid steelblue;
+  padding: 30px;
+  border-radius: 5px;
+}
+
+.account-img{
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  
+}
+
+.btn{
+  height: 2rem;
+  width: 6rem;
+  border-radius: 3rem;
+  background-color: lightblue;
+  border: none;
+}
+.btn:hover{
+  background-color: rgb(99, 99, 247);
+}
+
+.message{
+display: block;
+  padding: 2rem;
+  border: none;
+  height: 10rem;
+background-color: #dfdfe5;
+}
+.message2{
+  display: block;
+    padding: 2rem;
+    border: none;
+    height: 10rem;
+  background-color: #dfdfe5;
+  }
+  
+
+.profile-img{
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  
+}
