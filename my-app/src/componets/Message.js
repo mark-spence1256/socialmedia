@@ -1,5 +1,5 @@
 
-import {profile} from './profile.png'
+
 
 
 const Message = () => {
@@ -7,7 +7,7 @@ const Message = () => {
         <div>
             <div className="message">
          <div className='profile'>
-             <img src={profile}master  className="profile-img" />
+             <img master  className="profile-img" />
          </div>
       <h1><b>Mark Spence</b></h1>
             <p>The best job I have taken! </p>
