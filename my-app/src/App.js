@@ -6,7 +6,7 @@ import Message from './componets/Message'
 
 
 import img from './img.jpeg'
-import profile from './profile.png'
+
 
 
 
